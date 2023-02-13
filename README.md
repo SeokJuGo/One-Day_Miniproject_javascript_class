@@ -1,5 +1,5 @@
 # 🍇 Java Script One-Day Mini Project 🍇
-### 2023년 2월 6일 ~ 2023년 2월 6일
+### 🗓️ 2023년 2월 6일 ~ 2023년 2월 6일
 
 
 <div align='center'>
