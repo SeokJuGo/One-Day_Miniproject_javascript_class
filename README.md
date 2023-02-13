@@ -45,7 +45,7 @@
 ### 오른쪽 하단에 total이 누적된다.(Cart UI는 미완성)
 
 
-### 링크 https://seokjugo.github.io/Miniproject_javascript/
+### 링크 https://seokjugo.github.io/miniproject_javascript_class/
 
 
 ![market2](https://user-images.githubusercontent.com/116260619/217057905-d0f9e113-9339-4c63-bbb9-a143e51eba1b.gif)
